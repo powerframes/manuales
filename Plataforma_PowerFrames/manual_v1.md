@@ -126,12 +126,15 @@ Con el uso de esta herramienta la plataforma centra el mapa de Colombia con el m
 [Figura 10](./pictures/Imagen11.png)
 
 ![Figura 10](./pictures/Imagen11.png "Herramientas de selección")
-**Figura 9.** *Herramientas de selección*
+**Figura 10.** *Herramientas de selección*
 
 #### 2.2.2.2. Reanálisis de desarcagas
 Esta función de la plataforma se encarga de relacionar todas las descargas atmosféricas que se han detectado y almacenado con los activos que se tienen monitoreados, de tal forma que cada una de la descarga tenga información con base en los diferentes activos y de pueda ver la influencia que cada una de las descargas tiene con los elementos monitoreados, en la [Figura 10](./pictures/Imagen10.png)
 
 Como esta información contiene la información de las descargas respecto a los activos, para esta capa contenga información visible, es necesario tener un acercamiento suficiente para que se vean las descargas discriminadas, los trazados y las torres de cada una de las líneas tal como se ve en la [Figura 10](./pictures/Imagen10.png). 
+
+![Figura 11](./pictures/Imagen11.png "Reanálisis de descargas")
+**Figura 11.** *Reanálisis de descargas*
 
 #####  *1. Distancia*:
 Tabla de convención dinámica de acuerdo a las descargas que hay en la ventana de tiempo consultada en todo el territorio. Estos valores varían con respecto a la mayor y menor distacia de las descargas a los activos, de tal forma que los círculos que representan las descargas van a tomar esos colores.
