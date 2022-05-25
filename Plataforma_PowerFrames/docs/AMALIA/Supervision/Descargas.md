@@ -11,3 +11,17 @@ Tabla de convención dinámica de acuerdo a las descargas que hay en la ventana 
 Además el tamaño del círculo representa la magnitud de la corriente de cada una de las descargas.
 
 #### *2. Información de la descarga*:
+##### **Fecha:** 
+La estampa de tiempo en la que la descarga se presentó.
+##### **Corriente:** 
+Es la magnitud de la corriente de Kiloamperios de la descarga.
+##### **Polaridad:** 
+Hace raferencia a la polaridad de la descarga. Neg para descargas negativas y POS para descargas positivas.
+##### **Coordenadas:** 
+son los valores de longitud y latitud que determinan la posición estimada de la caída del rayo
+##### **Error:** 
+es el valor en kilómetros del error en la ubicación de la descarga, es decir, la descarga pudo haber caido dentro de una circunferencia con radio del valor del error en kilómetros.
+##### **Altura:** 
+es el valor en metros sobre el nivel del mar para la ubicación de la descarga
+##### **Tipo:** 
+Hace raferencia al tipo descarga. NT para descargas que son tipo Nube Tierra y NN para descargas que son de tipo Nube Nube.

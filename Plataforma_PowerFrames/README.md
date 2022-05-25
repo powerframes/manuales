@@ -25,9 +25,6 @@ En esta opción el usuario puede consultar la correlación que existe entre la s
 En este módulo AMALIA se encarga de brindarle al usuario en diferentes visualizaciones la información de recuento de rayos, densidad dinámica de rayos, probabilidades de falla, descargas atmosféricas, análisis de descargas, clusterización de las tormentas, ubicación de las torres, subestaciones y los trazados para rangos de tiempo y espacio definidos por el usuario.
 La plataforma está configurado por defecto para que el usuario visualice el mapa de colombia con la información de **"Tiempo Real"**, el mapa se va a mostrar centrad y sin ningún filtro temporal, ni espacial como se muestra en [Figura7](./pictures/Imagen7.png).
 
-![Figura 7](./pictures/Imagen7.png "Vista principal supervisión")
-**Figura 7.** *Vista inicia módulo de supervisión*
-
 *IMPORTANTE*: El tiempo real está definido como el tiempo relativo correspodiente a 60 minutos, es decir, muestra la información de 60 minutos antes hasta el tiempo presente.
 
 *IMPORTANTE:* Las capas pueden no ser visibles por 2 razones
