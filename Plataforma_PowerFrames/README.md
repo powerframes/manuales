@@ -12,7 +12,7 @@ Este servicio es una aplicación web que se recomienda ser usada en navegadores 
 
 ## 2. [Portal AMALIA](./docs/AMALIA/)
 
-Ya dentro del aplicativo, AMALIA se encarga de dar la Bienvenida al usuario autenticado y mostrar los diferentes módulos dispuestos para ser usados, Predicciones, Supervisión y Reportes como se muestra en la [Figura3](./pictures/Imagen3.png)
+Ya dentro del aplicativo, AMALIA se encarga de dar la Bienvenida al usuario autenticado y mostrar los diferentes módulos dispuestos para ser usados, Predicciones, Supervisión y Reportes como se muestra en la [Figura3](./pictures/Imagen3.png). Acá el usuario debe elegir cuál de los módulos va a consultar e ingresar a él.
 
 ![Figura 3](./pictures/Imagen3.png "Bienvenida")
 **Figura 3.** *Bienvenida*
@@ -30,3 +30,9 @@ La plataforma está configurado por defecto para que el usuario visualice el map
 *IMPORTANTE:* Las capas pueden no ser visibles por 2 razones
 1. El zoom no tenga el ajuste necesario para la capa, ya sea porque esté muy cerca o muy lejos y será necesario modificar el zoom para ver la capa, cuando esto ocurre se ve el siguiente [símbolo](./pictures/Imagen12.png) ![Figura 12](./pictures/Imagen12.png "Ajuste de zoom para la capa")
 2. Se haya apagado la visualización y en ese caso se verá el [símbolo](./pictures/Imagen11.png) ![Figura 13](./pictures/Imagen13.png "Capa apagada por el usuario")
+
+### 2.3. [Módulo de predicción](./docs/AMALIA/Predicciones/)
+En este módulo AMALIA se encarga de brindarle al usuario los modelos de prediciones tanto de [**Riesgo por descarga atmosférica**](./docs/AMALIA/Predicciones/Descarga.md) y [**Riesgo por movimientos en masa**](./docs/AMALIA/Predicciones/Masa.md) en donde se puede encontrar información sobre posibilidades de falla en horizontes de tiempo futuros. En la [Figura 15](../Plataforma_PowerFrames/pictures/Imagen15.png) el usuario debe elegir cuál opción va a consultar.
+
+![Figura 15](../Plataforma_PowerFrames/pictures/Imagen15.png "Bienvenido a las Predicciones")
+**Figura 15.** *Bienvenido a las Predicciones*
