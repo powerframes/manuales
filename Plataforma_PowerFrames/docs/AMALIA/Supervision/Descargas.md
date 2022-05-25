@@ -1,7 +1,7 @@
 #### 2.2.3. Descargas atmosféricas
 Esta función de la plataforma se encarga de mostrar todas las descargas atmosféricas que se han detectado y almacenado con la información básica de la descarga, así se puede ver en en la [Figura 14](../../../pictures/Imagen14.png)
 
-Como esta capa contiene la información de las descargas es necesario llegar a un nivel de zum tal que no se vean los cluster sino las descargas individuales [Figura 14](../../../pictures/Imagen14.png).
+Como esta capa contiene la información de las descargas es necesario llegar a un nivel de zoom tal que no se vean los cluster sino las descargas individuales [Figura 14](../../../pictures/Imagen14.png).
 
 ![Figura 14](../../../pictures/Imagen14.png "Descargas atmosféricas")
 **Figura 14.** *Descargas atmosféricas*
