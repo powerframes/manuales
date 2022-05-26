@@ -7,10 +7,18 @@ Como esta información contiene la información de las descargas respecto a los 
 **Figura 11.** *Reanálisis de descargas*
 
 ##  *1. Distancia*:
+![Figura 12](../../../pictures/Imagen28.png "Convención de distancia")
+
+**Figura 12.** *Convención de distancia*
+
 Tabla de convención dinámica de acuerdo a las descargas que hay en la ventana de tiempo consultada en todo el territorio. Estos valores varían con respecto a la mayor y menor distacia de las descargas a los activos, de tal forma que los círculos que representan las descargas van a tomar esos colores.
 
 ## *2. Información de la descarga*:
 En la capa del reanálisis de las descargas, cada una tiene un número que la representa, este número es la distancia radia en kilómetros al activo más cercano. Cuando se hace click sobre la descarga o se para sobre ella, esta despliega la información de la misma. En esta información se encuentra:
+
+![Figura 13](../../../pictures/Imagen29.png "Información de la descarga respecto a los activos")
+
+**Figura 13.** *Información de la descarga respecto a los activos*
 
 - **_Fecha:_** La estampa de tiempo en la que la descarga se presentó.
 - **_Distancia:_-** Este valor es el mismo que tiene la descaga y es la distancia en kilómetros al activo (torre) más cercana.

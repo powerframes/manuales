@@ -7,10 +7,18 @@ Como esta capa contiene la información de las descargas es necesario llegar a u
 **Figura 14.** *Descargas atmosféricas*
 
 ###  *1. Fecha*:
+![Figura 15](../../../pictures/Imagen26.png "Convención de estampa de tiempo")
+
+**Figura 14.** *Convención de estampa de tiempo*
+
 Tabla de convención dinámica de acuerdo a las descargas que hay en la ventana de tiempo consultada en todo el territorio. Estos valores de estampa de tiempo varían con respecto a la descarga más reciente hasta la antigua, de tal forma que los círculos que representan las descargas van a tomar esos colores.
 Además el tamaño del círculo representa la magnitud de la corriente de cada una de las descargas.
 
 ### *2. Información de la descarga*:
+![Figura 16](../../../pictures/Imagen27.png "Información de la descarga")
+
+**Figura 16.** *Información de la descarga*
+
 - **_Fecha:_** La estampa de tiempo en la que la descarga se presentó.
 - **_Corriente:_** Es la magnitud de la corriente de Kiloamperios de la descarga.
 - **_Polaridad:_** Hace raferencia a la polaridad de la descarga. Neg para descargas negativas y POS para descargas positivas.
