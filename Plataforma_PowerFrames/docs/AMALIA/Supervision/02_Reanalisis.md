@@ -3,10 +3,10 @@ Esta función de la plataforma se encarga de relacionar todas las descargas atmo
 
 Como esta información contiene la información de las descargas respecto a los activos, para esta capa contenga información visible, es necesario tener un acercamiento suficiente para que se vean las descargas discriminadas, los trazados y las torres de cada una de las líneas tal como se ve en la [Figura 10](../../../pictures/Imagen10.png). 
 
-![Figura 11](../../../pictures/Imagen10.png=50*60 "Reanálisis de descargas")
+![Figura 11](../../../pictures/Imagen10.png =50*60)
 **Figura 11.** *Reanálisis de descargas*
 
-![Figura 11](../../../pictures/Imagen10.png=50*60 "Reanálisis de descargas")
+![Figura 11](../../../pictures/Imagen10.png  "Reanálisis de descargas")
 **Figura 11.** *Reanálisis de descargas*
 
 ##  *1. Distancia*:
