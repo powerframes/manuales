@@ -25,6 +25,8 @@ En esta opción el usuario puede consultar la correlación que existe entre la s
 
 La plataforma está configurado por defecto para todos los campos estén en blanco y sea el usuario el que ingrese la información necesaria para la consultacomo se muestra en el [Módulo de Reportes](../Plataforma_PowerFrames/pictures/Imagen7.png).
 
+    >*IMPORTANTE:* Para evitar errores con la estampa de tiempo de los eventos, se recomienda utilizar la hora del computador en horario militar (Formato 24 horas)
+
 La forma en que se hace la solicitud del reporte está explicada [aquí](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reportes.md).
 
 La información brindada en el soporte se explica en este [apartado](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reporte.md)
@@ -32,7 +34,11 @@ La información brindada en el soporte se explica en este [apartado](../Platafor
 En este módulo AMALIA se encarga de brindarle al usuario en diferentes visualizaciones la información de recuento de rayos, densidad dinámica de rayos, probabilidades de falla, descargas atmosféricas, análisis de descargas, clusterización de las tormentas, ubicación de las torres, subestaciones y los trazados para rangos de tiempo y espacio definidos por el usuario.
 La plataforma está configurado por defecto para que el usuario visualice el mapa de colombia con la información de **"Tiempo Real"**, el mapa se va a mostrar centrad y sin ningún filtro temporal, ni espacial como se muestra en [Figura7](./pictures/Imagen7.png).
 
-En este módulo va a poder hacer uso de las siguientes opciones:
+En este módulo va a poder hacer uso de los siguientes layers (capas) dispuestas en el [panel derecho](../Plataforma_PowerFrames/pictures/Imagen19.png):
+
+![Figura 8](../Plataforma_PowerFrames/pictures/Imagen15.png "Capas de herramientas (Layers)")
+**Figura 8.** *Capas de herramientas (Layers)*
+
 1. [**Herramientas generales**](./docs/AMALIA/Supervision/Herramientas.md)
 2. [**Reanálisis de descargas**](./docs/AMALIA/Supervision/Reanalisis.md)
 3. [**Descargas atmosféricas**](./docs/AMALIA/Supervision/Descargas.md)

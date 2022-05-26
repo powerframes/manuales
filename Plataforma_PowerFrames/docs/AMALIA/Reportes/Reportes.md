@@ -38,13 +38,14 @@ D --> E
 ```
 #### 2.2.1.1. Errores
 
-- **Sesion expirada**: La plataforma viene una vigencia de sesión de 45 minutos, razón por la cual despúes de este tiempo, el usuario deberá recargar la página y volver a identificarse, de lo contrario al intentar sacar un reporte, la plataforma no estará habilitada y mostrará una ventana emergente solicitando una nueva autenticación, tal como se ve en la [Figura6](../../../pictures/Imagen5.png).
+##### **Sesion expirada**: 
+La plataforma viene una vigencia de sesión de 45 minutos, razón por la cual despúes de este tiempo, el usuario deberá recargar la página y volver a identificarse, de lo contrario al intentar sacar un reporte, la plataforma no estará habilitada y mostrará una ventana emergente solicitando una nueva autenticación, tal como se ve en la [Figura6](../../../pictures/Imagen5.png).
 
 ![Figura 6](../../../pictures/Imagen6.png "Sesion Expirada")
 **Figura 6.** *Sesion Expirada*
 
-- **Error en el reporte**: 
-- - ##### *Distancia erronea*: 
+##### **Error en el reporte**: 
+- *Distancia erronea*: 
 Si la suma de las distancias a las subestaciones ingresadas es mayor que el doble de la logitud de la línea, el sistema no va a poder realizar la consulta y se debe repetir el formulario corrigiendo esta información
-- - #### *Tiempo erroneo*: 
+- *Tiempo erroneo*: 
 Si la estampa de tiempo ingresada es anterior a la fecha en que el activo se empezó a monitorear o, por el contrario, la estampa de tiempo ingresada es menor de 45 minutos de la hora en la que se está haciendo la consulta el sistema no encuentra datos y por lo tanto arroja un error para llenar nuevamente el formulario.
