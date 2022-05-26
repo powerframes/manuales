@@ -36,7 +36,8 @@ La plataforma está configurado por defecto para que el usuario visualice el map
 
 En este módulo va a poder hacer uso de los siguientes layers (capas) dispuestas en el [panel derecho](../Plataforma_PowerFrames/pictures/Imagen19.png):
 
-![Figura 8](../Plataforma_PowerFrames/pictures/Imagen15.png "Capas de herramientas (Layers)")
+![Figura 8](../Plataforma_PowerFrames/pictures/Imagen19.png "Capas de herramientas (Layers)")
+
 **Figura 8.** *Capas de herramientas (Layers)*
 
 1. [**Herramientas generales**](./docs/AMALIA/Supervision/Herramientas.md)
