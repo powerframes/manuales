@@ -22,7 +22,7 @@ Al encontrarse en la página principal del aplicativo siguiendo las indicaciones
 
 ## 2.1.2 Acceso
 
-Una vez seleccionada la opción **“Inicie sesión en el portal”**, ubicada en la parte superior derecha como se muestra en el [Portal de Inicio](./pictures/Imagen1.png), se redirecciona al apartado de autenticación en el que se deben ingresar Usuario y contraseña para el acceso, tal como se aprecia en la [Autenticación de Usuario](../pictures/Imagen2.png).
+Una vez seleccionada la opción **“Inicie sesión en el portal”**, ubicada en la parte superior derecha como se muestra en el [Portal de Inicio](../pictures/Imagen1.png), se redirecciona al apartado de autenticación en el que se deben ingresar Usuario y contraseña para el acceso, tal como se aprecia en la [Autenticación de Usuario](../pictures/Imagen2.png).
 ![Figura 1](../pictures/Imagen1.png "Acceso a la Plataforma")
 **Figura 1.** *Portal de Acceso*
 

@@ -8,8 +8,9 @@ La plataforma está basada en un sistema llamado AMALIA
 
 ## 1. [Entrada al aplicativo](./docs/Ingreso.md)
 
-Este servicio es una aplicación web que es recomendada para ser usada en navegadores basados en **Chromium** como [Google Chrome.](https://www.google.com/intl/es_es/chrome/), [EDGE](https://www.microsoft.com/es-es/edge), [BRAVE](https://brave.com/es/), [OPERA](https://www.opera.com/es) y  [SRWare Iron](https://www.srware.net/iron/), entre otros. 
-Para acceder al aplicativo se debe ingresar a la URL [www.powerframes.co](http://www.powerframes.co/)
+Este servicio es una aplicación web que es recomendada para ser usada en navegadores basados en **Chromium** como [Google Chrome](https://www.google.com/intl/es_es/chrome/), [EDGE](https://www.microsoft.com/es-es/edge), [BRAVE](https://brave.com/es/), [OPERA](https://www.opera.com/es) y  [SRWare Iron](https://www.srware.net/iron/), entre otros. 
+Para acceder al aplicativo se debe ingresar a la URL [www.powerframes.co](http://www.powerframes.co/) y seguir las instrucciones que se muestra [aquí](./docs/Ingreso.md)
+
 
 ## 2. [Portal AMALIA](./docs/AMALIA/)
 
@@ -22,6 +23,11 @@ Ya dentro del aplicativo, AMALIA se encarga de dar la Bienvenida al usuario aute
 
 En esta opción el usuario puede consultar la correlación que existe entre la salida de una línea de transmisión y una descarga atmosferíca, con el fin de determinar la posibilidad de que la causa de la falla (salida de línea) sea consecuencia de un rayo. 
 
+La plataforma está configurado por defecto para todos los campos estén en blanco y sea el usuario el que ingrese la información necesaria para la consultacomo se muestra en el [Módulo de Reportes](../Plataforma_PowerFrames/pictures/Imagen7.png).
+
+La forma en que se hace la solicitud del reporte está explicada [aquí](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reportes.md).
+
+La información brindada en el soporte se explica en este [apartado](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reporte.md)
 ### 2.2. [Módulo de supervisión](./docs/AMALIA/Supervision/)
 En este módulo AMALIA se encarga de brindarle al usuario en diferentes visualizaciones la información de recuento de rayos, densidad dinámica de rayos, probabilidades de falla, descargas atmosféricas, análisis de descargas, clusterización de las tormentas, ubicación de las torres, subestaciones y los trazados para rangos de tiempo y espacio definidos por el usuario.
 La plataforma está configurado por defecto para que el usuario visualice el mapa de colombia con la información de **"Tiempo Real"**, el mapa se va a mostrar centrad y sin ningún filtro temporal, ni espacial como se muestra en [Figura7](./pictures/Imagen7.png).
