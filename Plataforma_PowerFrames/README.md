@@ -1,7 +1,7 @@
 
 # AMALIA – Plataforma PowerFrames *Manual de usuario*
 
-## Introducción a AMALIA ![Figura 1](./pictures/Imagen25.png "AMALIA")
+## Introducción a AMALIA <!--![Figura 1](./pictures/Imagen25.png "AMALIA") -->
 La plataforma de PowerFrames es una herramienta que tiene como propósito supervisión, pronostico y monitoreo de las descargas atmosféricas y la vulnerabilidad de los activos del pertenecientes al sistema eléctrico nacional.
 
 La plataforma está basada en un sistema llamado AMALIA (Advanced Monitoring of Atmospheric & Lightning Activity) que significa monitoreo avanzado de actividad atmosférica y de rayos por sus siglas en inglés. AMALIA es una plataforma de monitoreo y análisi en tiempo real de las líneas operación de transmisión/distribución 

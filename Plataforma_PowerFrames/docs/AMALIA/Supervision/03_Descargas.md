@@ -24,5 +24,5 @@ Además el tamaño del círculo representa la magnitud de la corriente de cada u
 - **_Polaridad:_** Hace raferencia a la polaridad de la descarga. Neg para descargas negativas y POS para descargas positivas.
 - **_Coordenadas:_** son los valores de longitud y latitud que determinan la posición estimada de la caída del rayo
 - **_Error:_** es el valor en kilómetros del error en la ubicación de la descarga, es decir, la descarga pudo haber caido dentro de una circunferencia con radio del valor del error en kilómetros.
-- **_Altura:_** es el valor en metros sobre el nivel del mar para la ubicación de la descarga
+- **_Altura:_** es el valor en metros sobre el nivel del mar para la ubicación de las descargas tipo nube nube (NN)
 - **_Tipo:_** Hace raferencia al tipo descarga. NT para descargas que son tipo Nube Tierra y NN para descargas que son de tipo Nube Nube.
