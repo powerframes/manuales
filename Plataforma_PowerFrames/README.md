@@ -8,11 +8,12 @@ La plataforma está basada en un sistema llamado AMALIA
 
 ## 1. [Entrada al aplicativo](./docs/Ingreso.md)
 
-Este servicio es una aplicación web que se recomienda ser usada en navegadores basados en … como [Google Chrome.](https://www.google.com/intl/es/chrome/?brand=ALOY&ds_kid=43700059035616983&utm_source=bing&utm_medium=cpc&utm_campaign=1011197%20%7C%20Chrome%20Win10%20%7C%20DR%20%7C%20ESS01%20%7C%20GLOBAL%20%7C%20GLOBAL%20%7C%20es%20%7C%20Desk%20%7C%20SEM%20%7C%20BKWS%20-%20EXA%20%7C%20Txt&utm_term=descargar%20google%20chrome&utm_content=Desk%20%7C%20BING%20SEM%20%7C%20BKWS%20%7C%20Exact%20~%20Download%20Chrome&gclid=20024bb491c21712a0c429376e2f3ccd&gclsrc=3p.ds) Para acceder al aplicativo se debe ingresar a la URL [www.powerframes.co](http://www.powerframes.co/)
+Este servicio es una aplicación web que es recomendada para ser usada en navegadores basados en **Chromium** como [Google Chrome.](https://www.google.com/intl/es_es/chrome/), [EDGE](https://www.microsoft.com/es-es/edge), [BRAVE](https://brave.com/es/), [OPERA](https://www.opera.com/es) y  [SRWare Iron](https://www.srware.net/iron/), entre otros. 
+Para acceder al aplicativo se debe ingresar a la URL [www.powerframes.co](http://www.powerframes.co/)
 
 ## 2. [Portal AMALIA](./docs/AMALIA/)
 
-Ya dentro del aplicativo, AMALIA se encarga de dar la Bienvenida al usuario autenticado y mostrar los diferentes módulos dispuestos para ser usados, Predicciones, Supervisión y Reportes como se muestra en la [Figura3](./pictures/Imagen3.png). Acá el usuario debe elegir cuál de los módulos va a consultar e ingresar a él.
+Ya dentro del aplicativo, AMALIA se encarga de dar la Bienvenida al usuario autenticado y mostrar los diferentes módulos dispuestos para ser usados, Predicciones, Supervisión y Reportes como se muestra en la [Bienvenida](./pictures/Imagen3.png). Acá el usuario debe elegir cuál de los módulos va a consultar e ingresar a él.
 
 ![Figura 3](./pictures/Imagen3.png "Bienvenida")
 **Figura 3.** *Bienvenida*
