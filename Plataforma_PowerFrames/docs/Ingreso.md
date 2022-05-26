@@ -12,13 +12,13 @@ Al encontrarse en la página principal del aplicativo siguiendo las indicaciones
 
 ### 2.1.1. Botones disponibles
 
-**Nosotros**: acá podrá conocer un poco más de la empresa, en esta opción va a encontrar información, además de un vídeo de presentación.
+- **Nosotros**: acá podrá conocer un poco más de la empresa, en esta opción va a encontrar información, además de un vídeo de presentación.
 
-**Compañía**: los clientes principales, los proveedores, el respaldo, la experiencia, la visión y la estructura de la empresa puede ser consultada en esta opción.
+- **Compañía**: los clientes principales, los proveedores, el respaldo, la experiencia, la visión y la estructura de la empresa puede ser consultada en esta opción.
 
-**Productos**: La descripción de los productos, la infraestructura y la arquitectura que usan en cada uno de los productos se muestran en este apartado.
+- **Productos**: La descripción de los productos, la infraestructura y la arquitectura que usan en cada uno de los productos se muestran en este apartado.
 
-**Contacto**: Los datos donde puede encontrar la solución a las dudas o cualquier información pertinente está desplegado en esta opción.
+- **Contacto**: Los datos donde puede encontrar la solución a las dudas o cualquier información pertinente está desplegado en esta opción.
 
 ## 2.1.2 Acceso
 
