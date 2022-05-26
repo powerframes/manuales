@@ -25,7 +25,7 @@ En esta opción el usuario puede consultar la correlación que existe entre la s
 
 La plataforma está configurado por defecto para todos los campos estén en blanco y sea el usuario el que ingrese la información necesaria para la consultacomo se muestra en el [Módulo de Reportes](../Plataforma_PowerFrames/pictures/Imagen7.png).
 
-    >*IMPORTANTE:* Para evitar errores con la estampa de tiempo de los eventos, se recomienda utilizar la hora del computador en horario militar (Formato 24 horas)
+    > *IMPORTANTE:* Para evitar errores con la estampa de tiempo de los eventos, se recomienda utilizar la hora del computador en horario militar (Formato 24 horas)
 
 La forma en que se hace la solicitud del reporte está explicada [aquí](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reportes.md).
 
