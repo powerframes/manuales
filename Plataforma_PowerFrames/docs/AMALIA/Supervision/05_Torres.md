@@ -1,4 +1,4 @@
-# 2.2.3. Torres
+# 2.2.5. Torres
 Esta capa de la plataforma se encarga de mostrar la ubicación de las torres de acuerdo con su ubicación geofráfica y altura sobre el nivel del mar, tal como se muestra en la [Figura 17](../../../pictures/Imagen17.png.)
 
 Como esta capa contiene la información de las torres monitoreadas es necesario llegar a un nivel de zoom tal que se vean los símbolos que representan las torres ![Figura 18](../../../pictures/Imagen18.png).

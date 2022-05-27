@@ -1,4 +1,4 @@
-# 2.2.3. Clusterización de descargas
+# 2.2.4. Clusterización de descargas
 Esta función de la plataforma se encarga de agrupar las descargas que han sido obtenidas por el sistema en clusters de acuerdo a su ubicación geofráfica de las mismas, esta clusterización informa la cantidad de rayos que hay en cada cluster y sus características de corriente tal como se muestra en la [Figura 16](../../../pictures/Imagen16.png.png)
 
 Como esta capa contiene la información los grupos de descargas, para que sea visible, es necesario estar lo suficientemente alejando para que las descargas se puedan agrupar, tal como se ve en la [Figura 16](../../../pictures/Imagen16.png). 

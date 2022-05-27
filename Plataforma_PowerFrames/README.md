@@ -46,7 +46,7 @@ En este módulo va a poder hacer uso de los siguientes layers (capas) dispuestas
 3. [**Descargas atmosféricas**](./docs/AMALIA/Supervision/03_Descargas.md)
 4. [**Cluster de descargas**](./docs/AMALIA/Supervision/04_Clusters.md)
 5. [**Torres**](./docs/AMALIA/Supervision/05_Torres.md)
-6. [**Subestaciones**](./docs/AMALIA/Supervision/Subestaciones.md)
+6. [**Subestaciones**](./docs/AMALIA/Supervision/06_Subestaciones.md)
 7. [**Trazado de líneas**](./docs/AMALIA/Supervision/trazados.md)
 8. [**Actividad en líneas**](./docs/AMALIA/Supervision/Actividad.md)
 
