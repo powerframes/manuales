@@ -18,7 +18,7 @@ Tabla de convención dinámica de acuerdo a los grupos (clusters) que hay en la 
 **Figura 16.** *Convención de recuento de descargas*
 
 Tabla de convención dinámica de acuerdo a los grupos (clusters) que hay en la ventana de tiempo consultada en todo el territorio. Estos valores varían con respecto a la cantidad de descargas que componen el cluster desde el cluster con mayor número de descargas y el menor , de tal forma que los círculos que representan los clusters de descargas van a tomar esos colores.
-Además, el tamaño de la circunferencia hace referencia a la región geográfica que está teniendo en cuenta.
+Además, el tamaño de la circunferencia hace referencia a la cantidad de rayos que han caído en la zona.
 
 ## *3. Información del cluster*:
 En la capa del cluster de las descargas, cada una tiene un número que la representa, este número es la cantidad de rayos dentro de este cluster. Cuando se hace click sobre el cluster o se para sobre él, este despliega la información del mismo. En esta información se encuentra:
