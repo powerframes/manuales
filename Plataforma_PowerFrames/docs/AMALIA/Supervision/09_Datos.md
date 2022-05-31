@@ -17,9 +17,9 @@ Las barras verdes muestran la cantidad de descargas NT (nube tierra) detectadas,
 Ofrecen las siguientes opciones para el usuario:
 
 - **_Dar Click:_** 
--- ![Figura 32](../../../pictures/Imagen50.png) Permite cambiar el color de las barras para el preferido por el usuario
--- ![Figura 33](../../../pictures/Imagen51.png) Permite filtrar los datos mostrados en la gráfica por el ítem seleccionado
--- ![Figura 34](../../../pictures/Imagen52.png) Permite quitar el filtro de los datos en la gráfica por el ítem seleccionado
+-- *_Personalizar ![Figura 32](../../../pictures/Imagen50.png) :_* Permite cambiar el color de las barras para el preferido por el usuario
+-- *_Filtrar ![Figura 33](../../../pictures/Imagen51.png) :_* Permite filtrar los datos mostrados en la gráfica por el ítem seleccionado
+-- *_Eliminar filtro ![Figura 34](../../../pictures/Imagen52.png) :_* Permite quitar el filtro de los datos en la gráfica por el ítem seleccionado
 
 - **_Pasar el cursor:_** Reslata en la gráfica la serie de datos del elemento de la convención sobre el que se está parado.
 
@@ -43,9 +43,11 @@ Se muestra una tabla de datos con la infomación de las descargas, en la tabla s
 
 **Figura 30.** *Tabla de datos*
 
-### Herramientas
+### Opciones
 
-![Figura 39](../../../pictures/Imagen56.png) ofrece las siguientes opciones para el usuario:
+Ofrece las siguientes opciones para el usuario:
+
+![Figura 39](../../../pictures/Imagen56.png) 
 - *_Inspect ![Figura 40](../../../pictures/Imagen54.png) :_* Herramienta de control para desarrollo, ofrece información de cómo se están suministrando la información a la visualización. 
     >IMPORTANTE: se recomienda no usar esta herramienta.
 
