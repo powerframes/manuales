@@ -7,7 +7,7 @@ Como esta capa contiene la información de las torres monitoreadas es necesario 
 **Figura 17.** *Torres*
 
 ##  *1. Voltaje*:
-Tabla de convención de acuerdo a los voltajes en Kilovoltios de las las torres supervisadas.
+Tabla de convención de acuerdo a los voltajes en Kilovoltios de las torres supervisadas.
 
 ![Figura 18](../../../pictures/Imagen33.png "Convención de torres")
 
