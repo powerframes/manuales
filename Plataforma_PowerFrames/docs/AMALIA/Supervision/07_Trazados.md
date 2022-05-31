@@ -20,7 +20,18 @@ Cuando se hace click sobre la línea o se para sobre ella, esta despliega la inf
 **Figura 24.** *Información de las líneas*
 
 - **_Circuito:_** Es el nombre de la linea de transmisión.
-    > IMPORTANTE: las primeras cuatro letras indentifican la subestación A, las segundas 4 letras la subestación B, los número el voltaje en kilovoltios y el último número es el número de la línea.
+```mermaid
+graph LR
+A[SUB_A SUB_B VOLT LINEA] -- Subestación A--> B(PORC)
+A -- Subestación B --> C(SCAR)
+A -- Voltaje --> D(500)
+A -- Linea --> E(1)
+B --> F{PORCSCAR5001}
+C --> F
+D --> F
+E --> F
+```
+> IMPORTANTE: las primeras cuatro letras indentifican la subestación A, las segundas 4 letras la subestación B, los número el voltaje en kilovoltios y el último número es el número de la línea.
 - **_Voltaje:_** Es el voltaje en kilovoltios de la línea
-- **_longitud_:_** Es la medida longitudinal que tiene la línea desde la subestación A a la subestación B
-- **_Agente_:_** Es el encargado de la supervisión de la línea.
+- **_longitud:_** Es la medida longitudinal que tiene la línea desde la subestación A a la subestación B
+- **_Agente:_** Es el encargado de la supervisión de la línea.

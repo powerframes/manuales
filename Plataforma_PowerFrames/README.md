@@ -47,8 +47,8 @@ En este módulo va a poder hacer uso de los siguientes layers (capas) dispuestas
 4. [**Cluster de descargas**](./docs/AMALIA/Supervision/04_Clusters.md)
 5. [**Torres**](./docs/AMALIA/Supervision/05_Torres.md)
 6. [**Subestaciones**](./docs/AMALIA/Supervision/06_Subestaciones.md)
-7. [**Trazado de líneas**](./docs/AMALIA/Supervision/trazados.md)
-8. [**Actividad en líneas**](./docs/AMALIA/Supervision/Actividad.md)
+7. [**Trazado de líneas**](./docs/AMALIA/Supervision/07_Trazados.md)
+8. [**Actividad en líneas**](./docs/AMALIA/Supervision/08_Actividad.md)
 
 >*IMPORTANTE*: El tiempo real está definido como el tiempo relativo correspodiente a 60 minutos, es decir, muestra la información de 60 minutos antes hasta el tiempo presente.
 
