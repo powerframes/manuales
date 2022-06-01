@@ -16,16 +16,19 @@ Las barras multicolores muestran la cantidad de descargas se detectan en períme
 ### Las convenciones (nombre de los activos)
 Ofrecen las siguientes opciones para el usuario:
 
+![Figura 32](../../../pictures/Imagen52.png)
+
 #### **_Dar Click:_** 
-- *_Personalizar ![Figura 32](../../../pictures/Imagen50.png) :_* Permite cambiar el color de las barras para el preferido por el usuario
-- *_Filtrar ![Figura 33](../../../pictures/Imagen51.png) :_* Permite filtrar los datos mostrados en la gráfica por el ítem seleccionado
-- *_Eliminar filtro ![Figura 34](../../../pictures/Imagen52.png) :_* Permite quitar el filtro de los datos en la gráfica por el ítem seleccionado
+- *_Personalizar ![Figura 32](../../../pictures/Imagen49.png) :_* Permite cambiar el color de las barras para el preferido por el usuario
+- *_Filtrar ![Figura 33](../../../pictures/Imagen50.png) :_* Permite filtrar los datos mostrados en la gráfica por el ítem seleccionado
+- *_Eliminar filtro ![Figura 34](../../../pictures/Imagen51.png) :_* Permite quitar el filtro de los datos en la gráfica por el ítem seleccionado
 
 #### **_Pasar el cursor:_** 
 Reslata en la gráfica la serie de datos del elemento de la convención sobre el que se está parado.
 
 ### Filtros
 Ofrecen las siguientes opciones para el usuario:
+
 ![Figura 36](../../../pictures/Imagen61.png)
 
 - *_Rango de distancia:_* modifica el rango de distancia permitido para las descargas cercanas a la línea, es decir, ajusta el perímetro de análisis entre 0 y 5 km del activo supervisado.
