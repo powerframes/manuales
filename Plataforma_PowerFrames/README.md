@@ -66,13 +66,12 @@ En este módulo va a poder hacer uso de los siguientes layers (capas) dispuestas
 2. [**Reanálisis**](./docs/AMALIA/Supervision/10_Reanalisis.md)
 3. [**Estadístico Descriptivo**](./docs/AMALIA/Supervision/04_Clusters.md)
 
-#### 2.2.3. Submódulos filtros temporales
+#### 2.2.3. [Submódulos filtros temporales](./docs/AMALIA/Supervision/11_Filtros_Temporales.md)
+Esta opción le permite al usuario elegir una ventana de tiempo relativa o absoluta para hacer consultas en los periodods que sean necesarios.
+
 ![Figura 9](../Plataforma_PowerFrames/pictures/Imagen45.png "Submódulos")
 
 **Figura 9.** *Submódulos*
-
-1. [**Filtro Relativo**](./docs/AMALIA/Supervision/01_Herramientas.md)
-2. [**Filtro Absoluto**](./docs/AMALIA/Supervision/02_Reanalisis.md)
 
 ### 2.3. [Módulo de predicción](./docs/AMALIA/Predicciones/)
 En este módulo AMALIA se encarga de brindarle al usuario los modelos de prediciones tanto de [**Riesgo por descarga atmosférica**](./docs/AMALIA/Predicciones/Descarga.md) y [**Riesgo por movimientos en masa**](./docs/AMALIA/Predicciones/Masa.md) en donde se puede encontrar información sobre posibilidades de falla en horizontes de tiempo futuros. En la [Figura 15](../Plataforma_PowerFrames/pictures/Imagen15.png) el usuario debe elegir cuál opción va a consultar.
