@@ -1,4 +1,4 @@
-# 2.2.7. Actividad en las Líneas
+# 2.2.8. Actividad en las Líneas
 Esta capa de la plataforma busca informar sobre el estado que tiene cada una de las líneas de transmisión en cuanto a descargas atmosféricas cercanas a ella. tal como se muestra en la [Figura 25](../../../pictures/Imagen42.png), las líneas tiene un color que las resalta si están bajo ciartas condiciones de vulnerabilidad de acuerdo con las descargas. Como esta capa contiene la información sobre la actividad en los trazados, se puede observar en cualquier nivel de zoom.
 
 ![Figura 25](../../../pictures/Imagen42.png "Actividad en las líneas")

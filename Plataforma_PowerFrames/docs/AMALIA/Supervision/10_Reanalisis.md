@@ -1,19 +1,19 @@
-# 2.2.9. Datos
-Este submódulo de AMALIA es el encargado de almacenar los datos crudos de las descargas que se detectan. Como son datos que aún no han sido procesados cuentan con la información propia de la medida sin relacionarse con los activos supervisados, tal como se muestra en la [Figura 28](../../../pictures/Imagen46.png).
+# 2.2.10. Reanálisis
+Este submódulo de AMALIA se encarga de analizar la información de todas las descargas atmosféricas y relacionarlas con los activos supervisados como se puede observar en la [Figura 30](../../../pictures/Imagen59.png).
 
-![Figura 28](../../../pictures/Imagen46.png "Submódulo de Datos")
-**Figura 25.** *Submódulo de Datos*
+![Figura 30](../../../pictures/Imagen59.png "Submódulo de Reanálisis")
+**Figura 25.** *Submódulo de Reanálisis*
 
-## *2.2.9.1. Gráfica*:
+## *2.2.8.1. Gráfica*:
 Se muestra una gráfica de barras con la infomación de las descargas, el el eje vertical está el recuento de rayos y en el eje horizontal está la estampa de tiempo con resolución ajustable a la ventana de tiempo seleccionada.
 
-Las barras verdes muestran la cantidad de descargas NT (nube tierra) detectadas, mientras que las azules muestran los rayos NN (Nube Nube). 
+Las barras multicolores muestran la cantidad de descargas se detectan en perímetros de 5 km alrededor de los activos monitoreados. 
 
-![Figura 29](../../../pictures/Imagen47.png "Gráfica de datos crudos")
+![Figura 31](../../../pictures/Imagen60.png "Gráfica de datos analizados")
 
-**Figura 26.** *Gráfica de datos crudos*
+**Figura 26.** *Gráfica de datos analizados*
 
-### Las convenciones 
+### Las convenciones (nombre de los activos)
 Ofrecen las siguientes opciones para el usuario:
 
 #### **_Dar Click:_** 
@@ -23,6 +23,14 @@ Ofrecen las siguientes opciones para el usuario:
 
 #### **_Pasar el cursor:_** 
 Reslata en la gráfica la serie de datos del elemento de la convención sobre el que se está parado.
+
+### Filtros
+Ofrecen las siguientes opciones para el usuario:
+![Figura 36](../../../pictures/Imagen61.png)
+
+- *_Rango de distancia:_* modifica el rango de distancia permitido para las descargas cercanas a la línea, es decir, ajusta el perímetro de análisis entre 0 y 5 km del activo supervisado.
+
+- *_Rango de corriente:_* modifica el rango de la magnitud de la corriente permitido para las descargas cercanas a la línea, es decir, ajusta el valor de la corriente entre el mínimo y el máximo en kiloamperios para la ventana de tiempo consultada.
 
 ### Herramientas
 Ofrecen las siguientes opciones para el usuario:
@@ -36,11 +44,11 @@ Ofrecen las siguientes opciones para el usuario:
 
 - *_Maximize panel ![Figura 38](../../../pictures/Imagen55.png) :_* Maximiza la visualización de la gráfica de barras para que esta ocupe la pantalla completa del navegador.
 
-## *2.2.9.2. Datos*:
+## *2.2.8.2. Datos*:
 
-Se muestra una tabla de datos con la infomación de las descargas, en la tabla se pueden encontrar los datos de estampa de tiempo, coordenadas, corriente, polaridad, tipo, altura y error.
+Se muestra una tabla de datos con la infomación de las descargas respecto a los activos monitoreados, en la tabla se pueden encontrar los datos de estampa de tiempo, circuito cercano a la descarga, torre cercan a la descarga, distancia longitudinal a la subestación A, distancia longitudinal a la subestación B, coordenadas, distancia radial a la torre más cercana, corriente, polaridad, tipo, altura y error.
 
-![Figura 29](../../../pictures/Imagen57.png "Tabla de datos")
+![Figura 39](../../../pictures/Imagen62.png "Tabla de datos")
 
 **Figura 30.** *Tabla de datos*
 
