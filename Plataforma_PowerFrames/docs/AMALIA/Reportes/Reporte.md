@@ -54,14 +54,15 @@ En esta tabla de muestran todas las descargas de la línea consultada que tengan
 ## Mapa actividad eléctrica atmosférica
  En esta ilustración se muestra el recuento de descargas atmosféricas que han caído en las cercanías de la línea. Este gráfico cuenta con:
 
-![Figura 58](../../../pictures/Imagen67.png "Actividad eléctrica atmosférica")
+![Figura 58](../../../pictures/Imagen68.png "Actividad eléctrica atmosférica")
 
 **Figura 58.** *Actividad eléctrica atmosférica*
 
  1. El trazado de la línea ubicado de un plano de coordenadas de Longitud - Latitud. 
- 2. ![Figura 59](../../../pictures/Imagen68.png) Un perímetro de 5 km alrededor de la línea, es decir 2.5 kilómetros a cada lado.
+ 2. ![Figura 59](../../../pictures/Imagen67.png) Un perímetro de 5 km alrededor de la línea, es decir 2.5 kilómetros a cada lado.
  3. ![Figura 60](../../../pictures/Imagen69.png) La subestación A representada en un círculo azul
  4. ![Figura 61](../../../pictures/Imagen70.png) La subestación B representada en un círculo naranjado
  5. 
+ |||
+ |-|-|
  | ![Figura 62](../../../pictures/Imagen71.png) | La convención de recuento de rayos es una escala de colores que va desde el mínimo número de descargas en morado, hasta el número máximo de descargas en amarillo. Estos se muestran como cuadros alrededor de la línea en donde haya actividad para dimensionar en qué lugar se concentró la tormenta.
- 

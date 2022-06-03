@@ -30,7 +30,7 @@ La plataforma está configurado por defecto para todos los campos estén en blan
 
 La forma en que se hace la solicitud del reporte está explicada [aquí](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reportes.md).
 
-La información brindada en el soporte se explica en este [apartado](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reporte.md)
+La información brindada en el reporte se explica en este [apartado](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reporte.md)
 ### 2.2. [Módulo de supervisión](./docs/AMALIA/Supervision/)
 En este módulo AMALIA se encarga de brindarle al usuario en diferentes visualizaciones la información de recuento de rayos, densidad dinámica de rayos, probabilidades de falla, descargas atmosféricas, análisis de descargas, clusterización de las tormentas, ubicación de las torres, subestaciones y los trazados para rangos de tiempo y espacio definidos por el usuario.
 La plataforma está configurado por defecto para que el usuario visualice el mapa de colombia con la información de **"Tiempo Real"**, el mapa se va a mostrar centrad y sin ningún filtro temporal, ni espacial como se muestra en [Figura7](./pictures/Imagen7.png).
