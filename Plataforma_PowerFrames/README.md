@@ -67,7 +67,7 @@ En este módulo va a poder hacer uso de los siguientes layers (capas) dispuestas
 3. [**Estadístico Descriptivo**](./docs/AMALIA/Supervision/04_Clusters.md)
 
 #### 2.2.3. [Submódulos filtros temporales](./docs/AMALIA/Supervision/11_Filtros_Temporales.md)
-Esta opción le permite al usuario elegir una ventana de tiempo relativa o absoluta para hacer consultas en los periodods que sean necesarios.
+Esta opción le permite al usuario elegir una ventana de tiempo relativa o absoluta para hacer consultas en los periodods que sean necesarios. la forma adecuado de usarlos le puede encontrar [aquí](./docs/AMALIA/Supervision/11_Filtros_Temporales.md)
 
 ![Figura 9](../Plataforma_PowerFrames/pictures/Imagen45.png "Submódulos")
 
