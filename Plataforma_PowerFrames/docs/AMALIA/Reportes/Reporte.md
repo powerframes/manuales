@@ -3,7 +3,7 @@
 Cuando desde la plataforma el usuario hace correctamente la solicitud, el sistema se encarga de enviar un archivo en PDF a los correos diligenciados con la información de supervisión, la cual se explica en este documento.
 
 ## Información de solicitud
-Lo primero que muestra el reporte es la información de la consulta realizada por el usario, estos datos se presenta en la sifuiente [tabla](../../../pictures/Imagen65.png)
+Lo primero que muestra en el reporte es la información de la consulta realizada por el usario, estos datos se presenta en la sifuiente [tabla](../../../pictures/Imagen65.png)
 
 ![Figura 56](../../../pictures/Imagen65.png "Información de la consulta")
 
@@ -37,6 +37,10 @@ Lo primero que muestra el reporte es la información de la consulta realizada po
 ## Tabla de descargas
 En esta tabla de muestran todas las descargas de la línea consultada que tengan un SCORE superior a 0.600. Cada una de las descargas cuenta con la siguiente información:
 
+![Figura 58](../../../pictures/Imagen66.png "Tabla de descargas")
+
+**Figura 58.** *Tabla de descargas*
+
 | Variable | Significado |
 |-|-|
 | Fecha | Estampa de tiempo estimada para la descarga con resolución de micosegundos en formato AA-MM-DD HH:MM:SS.MMM|
@@ -45,14 +49,14 @@ En esta tabla de muestran todas las descargas de la línea consultada que tengan
 | Dist a | Distancia longitudinal en kilómetros a la subestación A|
 | Dist b | Distancia longitudinal en kilómetros a la subestación B|
 | Err | Error en kilómetros de la ubicación de la descarga |
-| T.C | Número de la torre con distancia longitudinal más cercana a la descarga|
+| T.C | Número de la torre con la distancia longitudinal más cercana a la descarga|
 | Score | Métrica que cuantifica la posible influencia de cada uno de los rayos en el evento |
 | Tipo | Es el tipo de descarga NN para la Nube-Nube y NT para las Nube-Tierra|
-| Polaridad | Polarización de la descarga NEG para negativas y POS para positivas|
+| Polaridad | Polarización de la descarga, NEG para negativas y POS para positivas|
 | Flash | Indentificación de la rama principal de la descarga |
 
 ## Mapa actividad eléctrica atmosférica
- En esta ilustración se muestra el recuento de descargas atmosféricas que han caído en las cercanías de la línea. Este gráfico cuenta con:
+En esta ilustración se muestra el recuento de descargas atmosféricas que han caído en las cercanías de la línea. Este gráfico cuenta con:
 
 ![Figura 58](../../../pictures/Imagen68.png "Actividad eléctrica atmosférica")
 
@@ -66,3 +70,18 @@ En esta tabla de muestran todas las descargas de la línea consultada que tengan
  |||
  |-|-|
  | ![Figura 62](../../../pictures/Imagen71.png) | La convención de recuento de rayos es una escala de colores que va desde el mínimo número de descargas en morado, hasta el número máximo de descargas en amarillo. Estos se muestran como cuadros alrededor de la línea en donde haya actividad para dimensionar en qué lugar se concentró la tormenta.
+ 6. ![Figura 62](../../../pictures/Imagen73.png) concentración de la tormente de acuerdo a la convención de recuento de rayos
+ 7. ![Figura 63](../../../pictures/Imagen74.png) Nombre y ubicación de la primera torre del circuito
+ 8. ![Figura 63](../../../pictures/Imagen75.png) Nombre y ubicación de la última torre del circuito
+
+## Actividad de rayos en el perímetro de 2 km a la línea
+
+En esta ilustración se muestra el recuento de descargas atmosféricas que han caído en las cercanías de la línea. Este gráfico cuenta con:
+
+![Figura 64](../../../pictures/Imagen68.png "Actividad de rayos en el perímetro de 2 km")
+
+**Figura 64.** *Actividad de rayos en el perímetro de 2 km*
+
+ 1. El trazado de la línea ubicado de un plano de coordenadas de Longitud - Latitud. 
+ 2. Un perímetro trazado en gris de 2 km alrededor de la línea, es decir, 1 kilómetro a cada lado.
+ 3. 

@@ -4,7 +4,7 @@ Para acceder al aplicativo se debe ingresar a la URL [www.powerframes.co](http:/
 
 Después de estar en el portal principal del aplicativo es necesario acceder, para hacerlo, el usuario debe de hacer uso de sus credenciales de acceso (usuario y contraseña) que han sido suministradas.
 
-• IMPORTANTE: En caso el usuario no tenga credenciales de acceso y la empresa ya se encuentre afiliada a nuestra base de datos, debe de ponerse en contacto con el usuario administrador de dicha empresa para solicitarle las credenciales.
+> IMPORTANTE: En caso que el usuario no cuente con las credenciales de acceso y la empresa ya se encuentre afiliada a nuestra base de datos, debe de ponerse en contacto con el usuario administrador de dicha empresa para solicitarle las credenciales.
 
 ## 2.1. Portal de entrada
 
@@ -12,13 +12,13 @@ Al encontrarse en la página principal del aplicativo siguiendo las indicaciones
 
 ### 2.1.1. Botones disponibles
 
-- **Nosotros**: acá podrá conocer un poco más de la empresa, en esta opción va a encontrar información, además de un vídeo de presentación.
+- **_Nosotros_**: acá podrá conocer un poco más de la empresa, en esta opción va a encontrar información, además de un vídeo de presentación.
 
-- **Compañía**: los clientes principales, los proveedores, el respaldo, la experiencia, la visión y la estructura de la empresa puede ser consultada en esta opción.
+- **_Compañía_**: los clientes principales, los proveedores, el respaldo, la experiencia, la visión y la estructura de la empresa puede ser consultada en esta opción.
 
-- **Productos**: La descripción de los productos, la infraestructura y la arquitectura que usan en cada uno de los productos se muestran en este apartado.
+- **_Productos_**: La descripción de los productos, la infraestructura y la arquitectura que se usan en cada uno de los productos se muestran en este apartado.
 
-- **Contacto**: Los datos donde puede encontrar la solución a las dudas o cualquier información pertinente está desplegado en esta opción.
+- **_Contacto_**: Los datos donde puede encontrar la solución a las dudas o cualquier información pertinente está desplegado en esta opción.
 
 ## 2.1.2 Acceso
 
