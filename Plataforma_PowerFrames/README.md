@@ -22,9 +22,9 @@ Ya dentro del aplicativo, AMALIA se encarga de dar la Bienvenida al usuario aute
 
 ### 2.1 [Módulo de reportes](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reportes.md)
 
-En esta opción el usuario puede consultar la correlación que existe entre la salida de una línea de transmisión/distribución y una descarga atmosferíca, con el fin de determinar la posibilidad de que la causa de la falla (salida de línea) sea consecuencia de un rayo. 
+El módulo de reportes cuenta con la posibilidad de consultar la correlación que existe entre las descargas atmosféricas y las líneas de transmisión/distribución, subestaciones y además sobre coordenadas puntuales.
 
-La plataforma está configurado por defecto para que todos los campos estén en blanco y sea el usuario el que ingrese la información necesaria para la consulta como se muestra en el [Módulo de Reportes](../Plataforma_PowerFrames/pictures/Imagen4.png).
+La plataforma está configurada por defecto para que todos los campos estén en blanco y sea el usuario el que ingrese la información necesaria para la consulta como se muestra en el [Módulo de Reportes](../Plataforma_PowerFrames/pictures/Imagen4.png).
 
 > *IMPORTANTE:* Para evitar errores con la estampa de tiempo de los eventos, se recomienda utilizar la hora del computador en horario militar (Formato 24 horas).
 
