@@ -5,7 +5,7 @@ Cuando desde la plataforma el usuario hace correctamente la solicitud, el sistem
 ## Información de solicitud
 Lo primero que muestra en el reporte es la información de la consulta realizada por el usuario, estos datos se presenta en la siguiente [tabla](../../../pictures/Imagen79.png)
 
-![Figura 79](../../../pictures/Imagen79.png "Información de la consulta")
+![Figura 89](../../../pictures/Imagen89.png "Información de la consulta")
 
 **Figura 79.** *Información de la consulta*
 
