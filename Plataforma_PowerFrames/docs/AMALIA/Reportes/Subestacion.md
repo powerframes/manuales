@@ -35,10 +35,11 @@ Lo primero que muestra en el reporte es la información de la consulta realizada
 
 ## Tabla de descargas
 En esta tabla de muestran todas las descargas de la línea consultada que tengan un SCORE superior a 0.600. Cada una de las descargas cuenta con la siguiente información:
+<center>
+![Figura 80](../../../pictures/Imagen80.png "Tabla de descargas"){width=20%}
+</center>
 
-![Figura 80](../../../pictures/Imagen80.png "Tabla de descargas")
-
-**Figura 58.** *Tabla de descargas*
+**Figura 80.** *Tabla de descargas*
 
 | Variable | Significado |
 |-|-|
