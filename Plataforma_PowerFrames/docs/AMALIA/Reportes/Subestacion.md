@@ -65,7 +65,7 @@ En esta ilustración se muestra el recuento de descargas atmosféricas que han c
 **Figura 58.** *Actividad eléctrica atmosférica*
 
  1. El trazado de la línea ubicado de un plano de coordenadas de Longitud - Latitud. 
- 2. ![Figura 82](../../../pictures/Imagen82.png) Un perímetro circular de 2 km alrededor de la subestación.
+ 2. <img src="../../../pictures/Imagen82.png" alt="Figura 82" width="100"> Un perímetro circular de 2 km alrededor de la subestación.
  3. ![Figura 83](../../../pictures/Imagen83.png) Un área circular de 5 km alrededor de la subestación
  4. ![Figura 84](../../../pictures/Imagen84.png) La ubucación de la subestación
  5. 
