@@ -30,7 +30,7 @@ La plataforma está configurada por defecto para que todos los campos estén en 
 
 La forma en que se hace la solicitud del reporte está explicada [aquí](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reportes.md).
 
-La información brindada en el reporte se explica en este [apartado](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Reporte.md)
+La información brindada en cada uno de los reportes solicitado se explican detalladamente, tanto para [líneas de transmisión](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Linea.md), [Subestaciones](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Subestacion.md) y [Coordenadas Puntuales](../Plataforma_PowerFrames/docs/AMALIA/Reportes/Punto.md)
 ### 2.2. [Módulo de supervisión](./docs/AMALIA/Supervision/)
 En este módulo AMALIA se encarga de brindarle al usuario en diferentes visualizaciones la información de recuento de rayos, densidad dinámica de rayos, probabilidades de falla, descargas atmosféricas, análisis de descargas, clusterización de las tormentas, ubicación de las torres, subestaciones y los trazados, esta información se brinda para rangos de tiempo y espacios geográficos definidos por el usuario.
 

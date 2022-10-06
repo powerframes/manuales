@@ -1,4 +1,4 @@
-# Reporte
+# Coordenada Puntual
 
 Cuando desde la plataforma el usuario hace correctamente la solicitud, el sistema se encarga de enviar un archivo en PDF a los correos diligenciados con la información de supervisión, la cual se explica en este documento.
 
