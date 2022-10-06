@@ -34,7 +34,7 @@ Lo primero que muestra en el reporte es la información de la consulta realizada
 >c. DSD < 0.600 --> No es posible correlacionar
 
 ## Tabla de descargas
-En esta tabla de muestran todas las descargas de la línea consultada que tengan un SCORE superior a 0.600. Cada una de las descargas cuenta con la siguiente información:
+En esta tabla de muestran todas las descargas de la subestación consultada que tengan un SCORE superior a 0.600. Cada una de las descargas cuenta con la siguiente información:
 
 ![Figura 80](../../../pictures/Imagen80.png)
 
@@ -66,8 +66,8 @@ En esta ilustración se muestra el recuento de descargas atmosféricas que han c
 
  1. El trazado de la línea ubicado de un plano de coordenadas de Longitud - Latitud. 
  2. <img src="../../../pictures/Imagen82.png" alt="Figura 82" width="100"> Un perímetro circular de 2 km alrededor de la subestación.
- 3. <img src="../../../pictures/Imagen83.png" alt="Figura 83"> Un área circular de 5 km alrededor de la subestación
- 4. <img src="../../../pictures/Imagen84.png" alt="Figura 84"> La ubicación de la subestación
+ 3. <img src="../../../pictures/Imagen83.png" alt="Figura 83" width="100"> Un área circular de 5 km alrededor de la subestación
+ 4. <img src="../../../pictures/Imagen84.png" alt="Figura 84" width="100"> La ubicación de la subestación
  5. 
     |||
     |-|-|

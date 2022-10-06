@@ -67,9 +67,9 @@ En esta ilustración se muestra el recuento de descargas atmosféricas que han c
  3. ![Figura 60](../../../pictures/Imagen69.png) La subestación A representada en un círculo azul
  4. ![Figura 61](../../../pictures/Imagen70.png) La subestación B representada en un círculo naranjado
  5. 
- |||
- |-|-|
- | ![Figura 62](../../../pictures/Imagen71.png) | La convención de recuento de rayos es una escala de colores que va desde el mínimo número de descargas en morado, hasta el número máximo de descargas en amarillo. Estos se muestran como cuadros alrededor de la línea en donde haya actividad para dimensionar en qué lugar se concentró la tormenta.
+    |||
+    |-|-|
+    | ![Figura 62](../../../pictures/Imagen71.png) | La convención de recuento de rayos es una escala de colores que va desde el mínimo número de descargas en morado, hasta el número máximo de descargas en amarillo. Estos se muestran como cuadros alrededor de la línea en donde haya actividad para dimensionar en qué lugar se concentró la tormenta.
  6. ![Figura 62](../../../pictures/Imagen73.png) concentración de la tormente de acuerdo a la convención de recuento de rayos
  7. ![Figura 63](../../../pictures/Imagen74.png) Nombre y ubicación de la primera torre del circuito
  8. ![Figura 63](../../../pictures/Imagen75.png) Nombre y ubicación de la última torre del circuito
