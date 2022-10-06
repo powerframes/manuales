@@ -66,12 +66,12 @@ En esta ilustración se muestra el recuento de descargas atmosféricas que han c
 
  1. El trazado de la línea ubicado de un plano de coordenadas de Longitud - Latitud. 
  2. <img src="../../../pictures/Imagen82.png" alt="Figura 82" width="100"> Un perímetro circular de 2 km alrededor de la subestación.
- 3. ![Figura 83](../../../pictures/Imagen83.png) Un área circular de 5 km alrededor de la subestación
- 4. ![Figura 84](../../../pictures/Imagen84.png) La ubucación de la subestación
+ 3. <img src="../../../pictures/Imagen83.png" alt="Figura 83"> Un área circular de 5 km alrededor de la subestación
+ 4. <img src="../../../pictures/Imagen84.png" alt="Figura 84"> La ubicación de la subestación
  5. 
- |||
- |-|-|
- | ![Figura 85](../../../pictures/Imagen85.png) | La convención de estampa de tiempo de rayos es una escala de colores que va desde 60 segundos antes de la estapa de tiempo de la falla en morado, hasta 60 segundos después de la estampa de tiempo del evento en verde. Estos se muestran como círculos alrededor de la subestación en donde haya actividad para dimensionar en qué lugar se concentró la tormenta.
+    |||
+    |-|-|
+    | ![Figura 85](../../../pictures/Imagen85.png) | La convención de estampa de tiempo de rayos es una escala de colores que va desde 60 segundos antes de la estapa de tiempo de la falla en morado, hasta 60 segundos después de la estampa de tiempo del evento en verde. Estos se muestran como círculos alrededor de la subestación en donde haya actividad para dimensionar en qué lugar se concentró la tormenta.
 
 ## Información temporal de descargas
 
